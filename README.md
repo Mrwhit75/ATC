@@ -93,4 +93,4 @@ Business application - Internal use only
 
 ## Contributing
 
-This is a business application. Please contact the development team for contributions. 
+This is a business application. Please contact the development team for contributions.
